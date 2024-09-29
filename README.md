@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 <h1>SCREENSHOTS</h1>
 ![chrome-capture-2024-9-29](https://github.com/user-attachments/assets/886a9266-dd2b-488f-91d0-b13f85754511)
 
-![chrome-capture-2024-9-27](https://github.com/user-attachments/assets/183bf5a9-d69e-4e38-b16b-d2b2943ec720)
+![chrome-capture-2024-9-29 (1)](https://github.com/user-attachments/assets/7f5edef5-c831-4618-a714-67d782e2effb)
 
 ![chrome-capture-2024-9-29 (2)](https://github.com/user-attachments/assets/6d0ab4e0-2aee-4fdf-b5a7-bb5817fd1422)
 
